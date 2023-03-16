@@ -8,9 +8,9 @@
 
 <br/>
 <br/>
-###   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> A little more about me... 
 <br/>
 <br/>
+### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> A little more about me... 
 
 ```kotlin
 
