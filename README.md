@@ -32,8 +32,7 @@ SeongHun(
 <br/>
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hun73877&show_icons=true&theme=dark)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hun73877&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hun73877&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 <br/>
