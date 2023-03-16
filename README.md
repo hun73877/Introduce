@@ -8,9 +8,7 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
-### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> A little more about me... 
+<!-- ### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> A little more about me...  -->
 
 ```kotlin
 
@@ -26,6 +24,10 @@ SeongHun(
 
 <br/>
 <br/>
+
+<a href="https://github.com/hun73877"><img style="height:170px" src="https://github-readme-stats.vercel.app/api?username=hun73877&show_icons=true&include_all_commits=true&theme=monokai&hide_border=true" alt="Winter's github stats" /></a>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=keems)](https://solved.ac/keems/)
+
 <br/>
 <br/>
 <br/>
