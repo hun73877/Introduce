@@ -35,6 +35,11 @@ SeongHun(
 
 <br/>
 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%hun73877%hun73877&count_bg=%23FF5A1C&title_bg=%23BC32E5&icon=macys.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hun73877)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <br/>
