@@ -3,11 +3,7 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   Hello, Android Developer 김성훈입니다.
 </h1>
-
-<!-- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 저는 안드로이드 세계를 더 멋지게 만드는 일을 할거예요  -->
-
 <br/>
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```kotlin
@@ -17,7 +13,7 @@ SeongHun(
   code = arrayOf("Java", "Kotlin", "Swift", "Dart"),
   tools = arrayOf("AndroidStudio", "XCode"),
   architecture = arrayOf("Clean"),
-  challenge = "저는 안드로이드 세계를 더 멋지게 만드는 일을 할거예요"
+  challenge = "저는 안드로이드 세계를 더 멋지게 만드는 일을 하고 "
 )
 
 ```
