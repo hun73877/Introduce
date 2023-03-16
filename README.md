@@ -4,10 +4,10 @@
   Hello, Android Developer 김성훈입니다.
 </h1>
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 저는 안드로이드 세계를 더 멋지게 만드는 일을 할거예요 
+<!-- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 저는 안드로이드 세계를 더 멋지게 만드는 일을 할거예요  -->
 
 <br/>
-<!-- ### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> A little more about me...  -->
+### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> A little more about me...
 
 ```kotlin
 
@@ -16,10 +16,14 @@ SeongHun(
   code = arrayOf("Java", "Kotlin", "Swift", "Dart"),
   tools = arrayOf("AndroidStudio", "XCode"),
   architecture = arrayOf("Clean"),
-  challenge = "더 멋진 모바일 생태계를 "
+  challenge = "저는 안드로이드 세계를 더 멋지게 만드는 일을 할거예요"
 )
 
 ```
+
+### 💻 work experience
+- 블록체인 연구소 헥슬란트 2021.02 ~ 2023.02
+- 테크트리 컴퍼니 2023.03 ~
 
 <br/>
 <br/>
