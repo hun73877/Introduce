@@ -7,13 +7,12 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```kotlin
-
 SeongHunKim(
-  name         = "김성훈",
-  nickName     = "winter",
-  challenge    = "저는 모바일 세상을 더 멋지게 만드는 일을 하고 있어요",
-  code         = arrayOf("Java", "Kotlin", "Swift", "Dart"),
-  tools        = arrayOf("Intellij", "XCode")
+  name      = "김성훈",
+  nickName  = "winter",
+  challenge = "저는 모바일 세상을 더 멋지게 만드는 일을 하고 있어요",
+  code      = arrayOf("Java", "Kotlin", "Swift", "Dart"),
+  tools     = arrayOf("Intellij", "XCode")
 )
 
 ```
