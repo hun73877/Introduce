@@ -9,6 +9,7 @@
 ```kotlin
 
 SeongHunKim(
+  name         = "김성훈",
   nickName     = "winter",
   challenge    = "저는 안드로이드 세계를 더 멋지게 만드는 일을 하고 있어요",
   code         = arrayOf("Java", "Kotlin", "Swift", "Dart"),
