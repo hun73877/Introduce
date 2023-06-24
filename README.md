@@ -23,7 +23,7 @@ SeongHunKim(
 블록체인 연구소 헥슬란트 
 
 - 2023.03 ~ <br/>
-LG BestShop ThinQ 키오스크 안드로이드 앱 개발 
+(프리랜서) LG BestShop ThinQ 키오스크 프로젝트
 
 <br/>
 <br/>
