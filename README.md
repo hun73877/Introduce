@@ -19,10 +19,10 @@ SeongHunKim(
 <br/>
 
 ### 💻 work experience
-- 2021.02 ~ 2023.02 <br/>
+- <b>2021.02 ~ 2023.02</b> <br/>
 블록체인 연구소 헥슬란트 
 
-- 2023.03 ~ <br/>
+- <b>2023.03</b> ~ <br/>
 (프리랜서) LG BestShop ThinQ 키오스크 프로젝트
 
 <br/>
