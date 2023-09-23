@@ -13,7 +13,7 @@ SeongHunKim(
   name      = "김성훈",
   nickName  = "winter",
   challenge = "저는 모바일 세상을 더 멋지게 만드는 일을 하고 있어요",
-  aosSkills = arrayOf("AAC", "MVVM", "Jetpack", "Coroutine"),
+  android   = arrayOf("AAC", "MVVM", "Jetpack", "Coroutine"),
   code      = arrayOf("Kotlin", "Java", "Swift", "Dart"),
   platform  = arrayOf("Android", "iOS", "Flutter")
 )
