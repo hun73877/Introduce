@@ -18,6 +18,7 @@ SeongHunKim(
   platform  = arrayOf("Android", "iOS", "Flutter")
 )
 ```
+<!-- 
 <br/>
 
 2020년 8월 ~ 2021년 1월
@@ -32,10 +33,9 @@ SeongHunKim(
 - <b>2022.08 ~ 2021.01</b> <br/>
 주식회사 오퍼튜니티 (폐업)
 
-
-
 <br/>
 <br/>
+ -->
 
 <!-- <a href="https://github.com/winter-love-dev"><img style="height:170px" src="https://github-readme-stats.vercel.app/api?username=winter-love-dev&show_icons=true&include_all_commits=true&theme=monokai&hide_border=true" alt="Winter's github stats" /></a>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=keems)](https://solved.ac/keems/)  -->
